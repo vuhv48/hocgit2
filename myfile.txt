@@ -1,1 +1,3 @@
 Con khi cung hieu dc git
+
+Them issue2
